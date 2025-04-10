@@ -1,0 +1,45 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #121212;
+    color: #f8f8f2;
+  }
+  
+  .text-green {
+    color: #00ff00;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #8be9fd;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #50fa7b;
+  }
+  
+  hr {
+    border-top: 1px solid #00ff00;
+  }
+  
+  .terminal-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .social-links {
+    margin-bottom: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .social-links a {
+    color: #8be9fd;
+    transition: color 0.2s ease;
+  }
+  
+  .social-links a:hover {
+    color: #50fa7b;
+    text-decoration: underline;
+  }
+  
