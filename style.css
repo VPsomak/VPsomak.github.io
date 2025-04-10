@@ -43,3 +43,7 @@ body {
     text-decoration: underline;
   }
   
+  .bibbase_group {
+    background-color: transparent;
+    border: 1px solid darkgreen;
+  }
